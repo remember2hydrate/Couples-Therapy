@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity Projects\\Couples Therapy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|F:\\Unity Projects\\Couples Therapy\\assets\\scripts\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|f:\\unity projects\\couples therapy\\assets\\playerspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|solutionrelative:assets\\playerspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|f:\\unity projects\\couples therapy\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|F:\\Unity Projects\\Couples Therapy\\assets\\scripts\\npcmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|f:\\unity projects\\couples therapy\\assets\\pathcreator\\examples\\scripts\\pathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AA73C5-7A2B-2903-BFFF-1D52D650A5DA}|Assembly-CSharp.csproj|solutionrelative:assets\\pathcreator\\examples\\scripts\\pathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playerspeed.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Couples Therapy\\Assets\\playerspeed.cs",
+              "RelativeDocumentMoniker": "Assets\\playerspeed.cs",
+              "ToolTip": "F:\\Unity Projects\\Couples Therapy\\Assets\\playerspeed.cs",
+              "RelativeToolTip": "Assets\\playerspeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:17:13.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PathFollower.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Couples Therapy\\Assets\\PathCreator\\Examples\\Scripts\\PathFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\PathCreator\\Examples\\Scripts\\PathFollower.cs",
+              "ToolTip": "F:\\Unity Projects\\Couples Therapy\\Assets\\PathCreator\\Examples\\Scripts\\PathFollower.cs",
+              "RelativeToolTip": "Assets\\PathCreator\\Examples\\Scripts\\PathFollower.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:58:36.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dialogue.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Couples Therapy\\Assets\\Scripts\\Dialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue.cs",
+              "ToolTip": "F:\\Unity Projects\\Couples Therapy\\Assets\\Scripts\\Dialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:02:02.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Couples Therapy\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "F:\\Unity Projects\\Couples Therapy\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:13:53.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPCMovement.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Couples Therapy\\Assets\\Scripts\\NPCMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCMovement.cs",
+              "ToolTip": "F:\\Unity Projects\\Couples Therapy\\Assets\\Scripts\\NPCMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:57:47.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

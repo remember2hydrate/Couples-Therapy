@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92aa73c5-7a2b-2903-bfff-1d52d650a5da": {
+      "ProjectGuid": "92aa73c5-7a2b-2903-bfff-1d52d650a5da",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ce97cd6a-a092-7e5e-d126-3ff234e99703": {
+      "ProjectGuid": "ce97cd6a-a092-7e5e-d126-3ff234e99703",
+      "DisplayName": "PathCreatorEditor",
+      "ColorIndex": 1
+    },
+    "04768dcd-2799-2032-4dac-41c548348e34": {
+      "ProjectGuid": "04768dcd-2799-2032-4dac-41c548348e34",
+      "DisplayName": "PathCreator",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
